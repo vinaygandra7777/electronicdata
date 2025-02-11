@@ -1,0 +1,164 @@
+{ "electonic":[ 
+    {
+      "id": 1,
+      "category": "Smartphone",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 999,
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "price": 899,
+      "stock": 40
+    },
+    {
+      "id": 3,
+      "category": "Smartphone",
+      "brand": "OnePlus",
+      "model": "OnePlus 11",
+      "price": 749,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "category": "Smartphone",
+      "brand": "Google",
+      "model": "Pixel 7",
+      "price": 599,
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "category": "Smartphone",
+      "brand": "Xiaomi",
+      "model": "Mi 13",
+      "price": 499,
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "category": "Laptop",
+      "brand": "Apple",
+      "model": "MacBook Pro M2",
+      "price": 1999,
+      "stock": 35
+    },
+    {
+      "id": 7,
+      "category": "Laptop",
+      "brand": "Dell",
+      "model": "XPS 15",
+      "price": 1499,
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "category": "Laptop",
+      "brand": "HP",
+      "model": "Spectre x360",
+      "price": 1399,
+      "stock": 20
+    },
+    {
+      "id": 9,
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "price": 1599,
+      "stock": 18
+    },
+    {
+      "id": 10,
+      "category": "Laptop",
+      "brand": "Asus",
+      "model": "ROG Zephyrus G14",
+      "price": 1299,
+      "stock": 22
+    },
+    {
+      "id": 11,
+      "category": "Tablet",
+      "brand": "Apple",
+      "model": "iPad Pro",
+      "price": 1099,
+      "stock": 40
+    },
+    {
+      "id": 12,
+      "category": "Tablet",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S8",
+      "price": 899,
+      "stock": 30
+    },
+    {
+      "id": 13,
+      "category": "Tablet",
+      "brand": "Microsoft",
+      "model": "Surface Pro 9",
+      "price": 1299,
+      "stock": 25
+    },
+    {
+      "id": 14,
+      "category": "Tablet",
+      "brand": "Lenovo",
+      "model": "Tab P11 Pro",
+      "price": 599,
+      "stock": 20
+    },
+    {
+      "id": 15,
+      "category": "Tablet",
+      "brand": "Amazon",
+      "model": "Fire HD 10",
+      "price": 149,
+      "stock": 50
+    },
+    {
+      "id": 16,
+      "category": "Smartwatch",
+      "brand": "Apple",
+      "model": "Apple Watch Series 8",
+      "price": 499,
+      "stock": 60
+    },
+    {
+      "id": 17,
+      "category": "Smartwatch",
+      "brand": "Samsung",
+      "model": "Galaxy Watch 5",
+      "price": 299,
+      "stock": 50
+    },
+    {
+      "id": 18,
+      "category": "Smartwatch",
+      "brand": "Garmin",
+      "model": "Forerunner 955",
+      "price": 499,
+      "stock": 35
+    },
+    {
+      "id": 19,
+      "category": "Smartwatch",
+      "brand": "Fitbit",
+      "model": "Versa 4",
+      "price": 229,
+      "stock": 40
+    },
+    {
+      "id": 20,
+      "category": "Smartwatch",
+      "brand": "Fossil",
+      "model": "Gen 6",
+      "price": 299,
+      "stock": 30
+    }
+  ]
+}
+  
