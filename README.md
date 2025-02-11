@@ -1,8 +1,11 @@
 Node.js Server for Electronics Data
+
 Overview
+
 This Node.js server reads data from a JSON file (electronics.json) and provides an API to filter and retrieve electronics data based on categories. The server supports GET and POST requests to interact with the data.
 
-Features
+Features:
+
 Read Data from JSON File:
 
 The server reads data from a file named electronics.json.
@@ -59,5 +62,6 @@ t: Filters items with the category Tablet.
 
 w: Filters items with the category Smartwatch.
 
-4. Error Handling
+4. Error Handling:
+ 
 If the electronics.json file cannot be read or parsed, the server logs the error and sends a 500 Internal Server Error response.
